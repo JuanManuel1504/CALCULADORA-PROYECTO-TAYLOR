@@ -1,8 +1,8 @@
-Calculadora de Funciones con Series de Maclaurin
+# **Calculadora de Funciones con Series de Maclaurin**
 
 Este proyecto es una calculadora educativa hecha en Python que permite aproximar funciones matemáticas comunes utilizando series de Maclaurin.
 
-Funciones implementadas
+## Funciones implementadas
 
 - "e^x" — exponencial
 - "sin(x)" — seno
@@ -12,17 +12,17 @@ Funciones implementadas
 - "senh(x)" — seno hiperbólico
 - "cosh(x)" — coseno hiperbólico
 
-Tecnologías
+## **Tecnologías**
 
 - Lenguaje: Python 3
 - Arquitectura: Modelo-Vista-Controlador (MVC)
 - Interfaz: Terminal
 
-Restricciones
+## Restricciones
 
 No se utilizaron funciones nativas como "math.exp", "math.sin", etc. Todos los cálculos fueron realizados de forma manual utilizando estructuras básicas de control y funciones definidas por el usuario.
 
-Estructura del proyecto
+## Estructura del proyecto
 
 ```
 taylor_project/
